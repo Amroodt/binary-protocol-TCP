@@ -1,0 +1,15 @@
+# ===== CMake / CLion =====
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+.idea/
+
+# ===== Compiled artifacts =====
+*.o
+*.out
+*.exe
+
+# ===== macOS =====
+.DS_Store
